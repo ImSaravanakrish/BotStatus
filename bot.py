@@ -44,7 +44,7 @@ async def BotzHub():
             except MessageNotModifiedError:
                 pass
             c = 0
-            edit_text = "**@TamilBots Bots Stats.**\n\n"
+            edit_text = "**🤖 Bot 🤖 | ⭐️ Status ⭐️ |.**\n\n"
             for bot in bots:
                 try:
                     logging.info(f"[INFO] checking @{bot}")
