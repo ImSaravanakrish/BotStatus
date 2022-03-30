@@ -5,6 +5,8 @@ Updates your bot status in the message, every two hours.
 
 # Secrets.
 
+[![⚡️ Update Status. ⚡️](https://github.com/ImSaravanakrish/BotStatus/actions/workflows/updater.yml/badge.svg)](https://github.com/ImSaravanakrish/BotStatus/actions/workflows/updater.yml)
+
 Add them to [Settings ⇢ Secrets ⇢ New Repository Secret.](https://docs.github.com/en/actions/reference/encrypted-secrets)
 
 - `APP_ID` and `API_HASH` from [my.telegram.org](https://my.telegram.org).
